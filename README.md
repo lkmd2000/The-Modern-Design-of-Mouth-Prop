@@ -5,7 +5,14 @@
 
 - Our innovation was to design just one piece that can be moved to zoom in and out to fit seven different mouth sizes.
 
-- it was our project you can see much more detels about our presentashion 
+- It was our project in **Bioengineering Design** course at King Saud University, and it is one of my favorite. you can see much more details about our full presentation in the uploaded files.
 
+## The presentation contains:
+1. Design classification
+2. Product design specifications
+3. Detailed design
+4. Design evaluation and risk assessment
+5. Example of design life cycles
+6. Team formation and team members role
 
 > The design was created by **Autodesk Fusion 360** computer software.
