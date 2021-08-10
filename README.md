@@ -15,5 +15,8 @@ Our innovation was to design just one piece that can be moved to zoom in and out
 5. Example of design life cycles
 6. Team formation and team members role
 
+## The design image:
+![IMG_2560](https://user-images.githubusercontent.com/88155243/128802400-0dadb204-8ff7-4315-b031-be70218ecc69.jpg)
+
 
 > The design was created by **Autodesk Fusion 360** computer software.
